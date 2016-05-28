@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+    "target": "es5",
+    "noImplicitAny": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "moduleResolution": "node"
+  },
+  "files": [
+    "./index.ts"
+  ]
+}
