@@ -2,10 +2,10 @@
   "name": "HelloAngular2",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
         "tsc": "tsc -p .",
-        "browserify": "browserify ./index.js -o ./bundle.js",
+        "browserify": "browserify ./app.js -o ./bundle.js",
         "build": "npm run tsc && npm run browserify"
   },
   "keywords": [],
